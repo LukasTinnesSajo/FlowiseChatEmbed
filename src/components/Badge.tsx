@@ -44,7 +44,7 @@ export const Badge = (props: Props) => {
         'background-color': props.badgeBackgroundColor ?? '#ffffff',
       }}
     >
-      Powered by
+      Unterstützt von
       <a
         ref={liteBadge}
         href={'https://sajoconsulting.de'}
